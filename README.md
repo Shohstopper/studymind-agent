@@ -3,7 +3,7 @@
 > A capstone project for the [5-Day AI Agents: Intensive Vibe Coding Course with Google](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project)
 > **Track: Concierge Agents**
 
-StudyMind is a multi-agent AI system that acts as your personal study companion. It combines four specialized agents — an orchestrator, a study planner, a content summarizer, and a quiz generator — all powered by Google ADK and Gemini 2.0 Flash.
+StudyMind is a multi-agent AI system that acts as your personal study companion. It combines four specialized agents — an orchestrator, a study planner, a content summarizer, and a quiz generator — all powered by Google ADK and LiteLLM with Groq.
 
 ---
 
@@ -139,6 +139,9 @@ studymind-agent/
 ## 👥 Team
 
 Built for the Kaggle AI Agents Capstone Project — 5-Day AI Agents: Intensive Vibe Coding Course with Google.
+Team Members- 
+1. Shoheb Akter Khan
+2. Sahani Shakya
 
 ---
 
